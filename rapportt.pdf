@@ -1,0 +1,13 @@
+What have I done to make the website responsive?
+I have used the viewport meta tag to make the page adjust to the users screensize. 
+I also added a @media in the css document to make the background of the pages turn brown if 
+the size of the window goes under 600px, and it also changes the way the links are presented from Display:flex to Display:block. 
+I also added to tone down the size of the images and the iframe link in media quaries to avoid having to move the page from left to right in order to see all the links in the footer.
+                    
+What have i done in regards to SEO of the website
+I have added metatags to all the pages. 
+I have linked to all the pages on the site.
+If i had uploaded the page i would have added a sitemap.
+I have added alt texts to the pictures i have on the site<
+I have tried to abide by the guidelines from Adsight regarding User friendly content
+The site sort of mobile friendly.
