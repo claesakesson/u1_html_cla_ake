@@ -1,0 +1,58 @@
+
+    
+body {
+    height: 100%;
+}
+
+footer {
+    background: black;
+   left: 0;
+   bottom: 0;
+}
+
+#foot {
+    display: flex;
+    justify-content: space-between;
+    left: 0;
+    bottom: 0;
+}
+
+iframe {
+    height: 125px;
+    width: 150px;
+}
+
+img {
+    height: 125px;
+    width: 150px;
+}
+
+#adr {
+    color: burlywood;
+}
+
+#navlist {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+@media only screen and (max-width: 600px){
+    body {
+        background-color: brown;
+
+    }
+    #navlist {
+        display: block;
+        list-style-type: none;
+    }
+
+    img {
+        height: 50px;
+        width: 70px;
+    }
+    iframe {
+        height: 50px;
+        width: 70px;
+    }
+}
